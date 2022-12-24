@@ -1,0 +1,37 @@
+{
+  "name": "zirconv3-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "moment": "^2.29.4",
+    "next": "^12.2.5",
+    "next-compose-plugins": "^2.2.1",
+    "next-offline": "^5.0.5",
+    "next-optimized-images": "^2.6.2",
+    "rc-time-picker": "^3.7.3",
+    "react": "^18.2.0",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-animate-height": "^3.0.4",
+    "react-bootstrap": "^2.5.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-image-lightbox": "^5.1.4",
+    "react-reveal": "^1.2.2",
+    "react-scrollspy": "^3.4.3",
+    "react-slick": "^0.29.0",
+    "react-tabs": "^5.1.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.5",
+    "styled-icons": "^10.45.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7"
+  }
+}
